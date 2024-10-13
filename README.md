@@ -7,7 +7,7 @@
 
 - 💻 **Coding Enthusiast**
   
-- 🔧 **Good at Data Structures and Algorithms (DSA)**
+- 🔧 **Strong at Data Structures and Algorithms (DSA)**
   
 - 🌐 **Flexible with Web Development**
   
